@@ -1,3 +1,9 @@
+安装之前先安装API
+地址：https://github.com/Binaryify/NeteaseCloudMusicApi
+
+
+
+
 # music-app
 
 > A Vue.js project
